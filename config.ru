@@ -1,3 +1,3 @@
 require 'rubygems'
-require './app'
+require './tinyclone'
 run Sinatra::Application
